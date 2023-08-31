@@ -1,0 +1,8 @@
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\bin\Debug\TestTaskOnellect.exe.config
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\bin\Debug\TestTaskOnellect.exe
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\bin\Debug\TestTaskOnellect.pdb
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\obj\Debug\TestTaskOnellect.csproj.AssemblyReference.cache
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\obj\Debug\TestTaskOnellect.csproj.SuggestedBindingRedirects.cache
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\obj\Debug\TestTaskOnellect.csproj.CoreCompileInputs.cache
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\obj\Debug\TestTaskOnellect.exe
+C:\Users\yugen\Documents\TestTaskOnellect\TestTaskOnellect\obj\Debug\TestTaskOnellect.pdb
